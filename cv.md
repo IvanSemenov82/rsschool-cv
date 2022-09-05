@@ -1,5 +1,3 @@
-## [rsschool-cv](rsccool-cv)
-
 # Ivan Semenov
 
 # My Contact Info
