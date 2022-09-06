@@ -1,2 +1,3 @@
 # rsschool-cv
-CV project
+
+https://ivansemenov82.github.io/rsschool-cv/
